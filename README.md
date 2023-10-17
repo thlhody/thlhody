@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thlhody
 - 👀 I’m interested in automation testing.
 - 🌱 I’m currently learning automation testing.
-- 💞️ I’m looking to collaborate on anything that will help mr
+- 💞️ I’m looking to collaborate on anything that will help me.
 - 📫 How to reach me ...
 
 <!---
